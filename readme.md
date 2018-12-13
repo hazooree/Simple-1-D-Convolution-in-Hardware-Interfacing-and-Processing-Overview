@@ -1,7 +1,7 @@
 # Simple-1-D-Convolution-in-Hardware-Interfacing-and-Processing-Overview
 
 
-Infup for Xilinx Hardware.m
+Input for Xilinx Hardware.m
 This file will prepare memoryx.list and memoryh.list for your DAQ module
 
 Output Comparing Methodology.m
